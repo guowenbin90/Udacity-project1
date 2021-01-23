@@ -31,3 +31,4 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 ### Medium blog
 
 ## Licensing, Authors, Acknowledgements <a name="licensing"></a>
+Must give credit to Airbnb for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/seattle).  Otherwise, feel free to use the code here as you would like! 
