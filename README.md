@@ -20,8 +20,8 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 - Scikit-learn(>= 0.19.1)
 
 ## Project Motivation <a name="motivation"></a>
-### Data source ([Kaggle](https://www.kaggle.com))
-[Seattle Airbnb Open Data](https://www.kaggle.com/airbnb/seattle/data)
+For this project, I was interested in using [Seattle Airbnb Open Data](https://www.kaggle.com/airbnb/seattle/data) from [Kaggle](https://www.kaggle.com) from Jan 2016 to Jan 2017 to answer following business questions:
+
 
 ## File Description <a name="files"></a>
 
