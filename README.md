@@ -22,7 +22,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 ## Project Motivation <a name="motivation"></a>
 For this project, I was interested in using [Seattle Airbnb Open Data](https://www.kaggle.com/airbnb/seattle/data) from [Kaggle](https://www.kaggle.com) from Jan 2016 to Jan 2017 to answer following business questions:
 
-
+To clone the repository use: git clone https://github.com/guowenbin90/Udacity-project1.git
 ## File Description <a name="files"></a>
 
 
